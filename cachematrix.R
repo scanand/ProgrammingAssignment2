@@ -1,5 +1,9 @@
+##Author Anand PARDHI
+##Date 28 Apr 2014
+
 ##makeCacheMatrix can be viewed as unit having 4 functions, and also holds the inverse matrix results
 ##returns the list of functions
+
 makeCacheMatrix <- function(x = matrix()) {
 
         #initialise the variable
